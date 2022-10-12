@@ -11,7 +11,7 @@ E-mail: Elizaveligurova@gmail.com
 
 VK: [Мой VK](https://vk.com/kleukwa)
 
-Telegram: https://web.telegram.org/z/#426206760
+Telegram: Liz Vel
 
 ### About Me
 I'm a student of the Mogilev University BRU. I want to become a Web developer. In the process of studying JavaScript.
