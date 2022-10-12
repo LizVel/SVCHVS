@@ -31,4 +31,4 @@ I'm a student of the Mogilev University BRU. I want to become a Web developer. I
 - https://learn.javascript.ru/
 
 ### Additional Information
--English Level: Pre-Intermediate (A2)
+- English Level: Pre-Intermediate (A2)
