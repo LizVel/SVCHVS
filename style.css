@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Montserrat-Regular; /* Имя шрифта */
+    src: url(fonts/Montserrat-Regular.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Montserrat-Bold; /* Имя шрифта */
+    src: url(fonts/Montserrat-Bold.otf); /* Путь к файлу со шрифтом */
+}
+
+html, body {
+    background-color: black;
+    height: 100%;
+    font-family: Montserrat-Regular;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.base-container {
+    background: linear-gradient(to bottom, #ffb129 300px, #080808 500px);
+    height: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+    position: relative;
+}
+
+.main {
+    background: linear-gradient(to bottom, black 33%, white 33%);
+    box-shadow: 5px 5px 45px 0px black;
+    color: white;
+    margin: 80px auto;
+    max-width: 800px;
+    height: 100%;
+    padding: 60px 40px;
+}
+
+h1 {
+    font-family: Montserrat-Bold;
+    font-size: 60px;
+    letter-spacing: 10px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin: 16px 0;
+}
