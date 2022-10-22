@@ -96,3 +96,17 @@ h2 {
 .info-right .photo {
     text-align: center;
 }
+
+.info-right .block li p  {
+    font-family: Montserrat-ExtraLight; 
+    margin: 0 0 10px 80px;
+    
+}
+
+.info-right .block li {
+    font-family: Montserrat-Bold;   
+}
+
+.info-left .block.skills ul {
+    font-family: Montserrat-Bold; 
+}
