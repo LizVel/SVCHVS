@@ -560,3 +560,43 @@ h5 {
     background-color: #018ABE;
     border-radius: 10px;
 }
+
+.gr1 {
+    margin-top: 30px;
+    margin-left: 46px;
+    width: 302px;
+    height: 220px;
+}
+
+.bt1 button {
+    margin-top: 25px;
+    margin-right: 145px;
+    width: 160px; 
+    height: 36px; 
+    background: white;
+    color: #018ABE;
+    padding: 9px 15px;
+    border-radius: 3px;
+}
+
+.container_footer{
+    margin-left: 312px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    margin-top: 90px;
+    position: relative;
+    width: 1296px;
+}
+
+.year {
+    width: 138px;
+    font-size: 14px;
+    color: white;
+}
+
+.developer {
+    width: 121px;
+    font-size: 14px; 
+    color: white;
+    justify-self: end;
+}
